@@ -50,11 +50,7 @@ To run this project locally:
 
    ```sh
    npm start
-   ```
-```
 
-
-```
 
 ## License
 
